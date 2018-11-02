@@ -3,8 +3,10 @@ meta1coin integration/staging tree
 
 https://meta1coin.com/meta1_art
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2018 Bitcoin Developers
+
 Copyright (c) 2018-2018 Meta1coin Developers
+
 Copyright (c) 2017-2018 TTcoin Developers
 
 What is meta1coin?
