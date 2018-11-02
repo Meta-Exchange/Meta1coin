@@ -1,4 +1,4 @@
-meta1coin integration/staging tree
+Meta1coin integration/staging tree
 ================================
 
 https://meta1coin.com/meta1_art
