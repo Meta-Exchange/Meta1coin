@@ -8,7 +8,7 @@
 #include <leveldb/env.h>
 #include <leveldb/cache.h>
 #include <leveldb/filter_policy.h>
-#include <memenv/memenv.h>
+#include <C:/me/src/leveldb/helpers/memenv/memenv.h>
 
 #include <boost/filesystem.hpp>
 

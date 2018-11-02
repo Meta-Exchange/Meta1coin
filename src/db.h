@@ -11,7 +11,7 @@
 #include <string>
 #include <vector>
 
-#include <db_cxx.h>
+#include <C:/db-4.8.30.NC/build_windows/db_cxx.h>
 
 class CAddress;
 class CAddrMan;
